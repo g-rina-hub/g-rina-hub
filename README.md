@@ -10,7 +10,7 @@ An open-source, user-centered mHealth prototype designed to support the mental h
 
 - Live demo: https://g-rina-hub.github.io/nicu_prototype/
 - GitHub repository: https://github.com/g-rina-hub/nicu_prototype
-- Research website: https://g-rina.wixsite.com/stbc
+- Project website: https://g-rina.wixsite.com/stbc
 
 This project explores how digital tools and AI-assisted workflows can support the development of evidence-informed interventions for NICU parents.
 
